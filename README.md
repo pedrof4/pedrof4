@@ -18,9 +18,9 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=55799989109211&text=Oi" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55799989109211&text=Oi"/></a>
   
-  <a href="#" alt="Instagram">
+  <a href="https://instagram.com/opfranca" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/opfranca"/></a>
 </p>  
