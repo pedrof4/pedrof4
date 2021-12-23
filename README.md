@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 
 <p align="left"> 
-  Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end do JavaScript, contudo, tenho intuito de estudar Kotlin, C++ e SQL.<br>
-  <strong>^Interesse em criar programas para Windows no futuro...^</strong>
+  Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end do JavaScript, contudo, tenho intuito de estudar SQL.<br>
+  <strong>^No processo de criar aplicativos de Windows...^</strong>
 </p>
 
 <p align="left">
-  💼 Linguagens: <strong>JavaScript(Node.js+HTML+CSS), Shell, Java, ...</strong>
+  💼 Linguagens: <strong>JavaScript Full Stack(Node.js+HTML+CSS+React+Express+Mongoose+Firebase), Shell, C#, C++, Kotlin, ...</strong>
 </p>
 
 <p align="left">
- 🛠 Ferramentas: <strong>Visual Studio Code, Dev-C++, Git Bash/CMD, MySQL, MongoDB...</strong>
+ 🛠 Ferramentas: <strong>Visual Studio, Visual Studio Code, IntelliJ IDEA, Dev-C++, Git Bash/CMD, MySQL, MongoDB...</strong>
 </p>
 
 <p align="left">
