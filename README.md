@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💼 Linguagens: <strong>JavaScript Full Stack(Node.js+HTML+CSS+React+Express+Mongoose+Firebase), Shell, C#, C++, Kotlin, ...</strong>
+  💼 Linguagens: <strong>JavaScript Full Stack(Node.js+HTML+CSS+React+Express+Mongoose+Firebase+Nodemon+Electron), Shell, C#, C++, Kotlin, ...</strong>
 </p>
 
 <p align="left">
