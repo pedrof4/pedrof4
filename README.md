@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 
 <p align="left"> 
-  Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end do JavaScript, contudo, tenho intuito de estudar SQL.<br>
+  Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end e back-end do JavaScript, contudo, tenho intuito de estudar SQL.<br>
   <strong>^No processo de criar aplicativos de Windows...^</strong>
 </p>
 
