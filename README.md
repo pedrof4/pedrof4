@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 
 <p align="left"> 
-  Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end com JavaScript, contudo, tenho intuito de estudar SQL.<br>
-  <strong>^No processo de criar aplicativos de Windows...^</strong>
+  Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end e tenho intuito de estudar SQL.<br>
+  <strong>^Estou no processo de criar aplicativos de Windows...^</strong>
 </p>
 
 <p align="left">
-  💼 Linguagens: <strong>JavaScript(Node.js+React), C#, C++, Kotlin, ...</strong>
+  💼 Especialidades: <strong>HTML, CSS, JavaScript, ReactJS, C#, C++, Kotlin...</strong>
 </p>
 
 <p align="left">
