@@ -34,7 +34,4 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/opfranca"/></a>
 </p>  
 
-
-
 [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&count_private=true&show_icons=true&theme=outrun&hide=prs,contribs)](https://github.com/drowngut/github-readme-stats)
-[![Pedro Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drowngut&layout=compact&theme=outrun)](https://github.com/drowngut/github-readme-stats)
