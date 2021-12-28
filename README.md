@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" />
 <p align="left"> 
   Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end e tenho intuito de estudar SQL.<br>
   <strong>^Estou no processo de criar aplicativos de Windows...^</strong>
