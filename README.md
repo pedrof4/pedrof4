@@ -36,3 +36,4 @@
 </p>  
 
 [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&count_private=true&show_icons=true&theme=outrun&hide=prs,contribs)](https://github.com/drowngut/github-readme-stats)
+<img src="/images/contrib.jpg">
