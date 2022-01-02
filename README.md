@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" />
 <p align="left"> 
   Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end e tenho intuito de estudar SQL.<br>
-  <strong>^Estou no processo de criar aplicativos de Windows...^</strong>
+  <strong>[Building Windows applications]</strong>
 </p>
 
 <p align="">
