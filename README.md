@@ -37,6 +37,10 @@
   <a href="https://www.linkedin.com/in/pedro-fran%C3%A7a-35696622a/#">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
+  
+  <a href="https://join.slack.com/t/lotuscorpgroup/shared_invite/zt-10wrumtnb-XQeghN2zYlyuHiB7~AUSAQ">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  </a>
 </p>  
 
 [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&count_private=true&show_icons=true&theme=outrun&hide=prs,contribs)](https://github.com/drowngut/github-readme-stats)
