@@ -39,7 +39,7 @@
   </a>
   
   <a href="https://join.slack.com/t/lotuscorpgroup/shared_invite/zt-10wrumtnb-XQeghN2zYlyuHiB7~AUSAQ">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   </a>
 </p>  
 
