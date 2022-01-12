@@ -21,6 +21,7 @@
   <a href="https://docs.microsoft.com/dotnet/csharp/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
   <a href="https://firebase.google.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
   <a href="https://www.java.com"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+  <a href="https://www.postgresql.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
 </div>
 </p>
 <p align="">
@@ -33,7 +34,7 @@
   
   <a href="https://instagram.com/opfranca" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/opfranca"/></a>
-</p>  
+</p>
 
 [![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&count_private=true&show_icons=true&theme=outrun&hide=prs,contribs)](https://github.com/drowngut/github-readme-stats)
 <img src="/images/contrib.jpg">
