@@ -24,8 +24,6 @@
   <a href="https://www.postgresql.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></a>
 </div>
 </p>
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&theme=aura&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<p align="">
   💌 Social: ⤵️
 </p>
 <p align="left">
