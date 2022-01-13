@@ -38,5 +38,5 @@
   <a href="https://join.slack.com/t/lotuscorpgroup/shared_invite/zt-10wrumtnb-XQeghN2zYlyuHiB7~AUSAQ">
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   </a>
-</p>  
-[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&count_private=true&show_icons=true&theme=aura)](https://github.com/drowngut/github-readme-stats)
+</p>
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&hide=prs,contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
