@@ -39,8 +39,6 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   </a>
 </p>
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&hide=prs,contribs&count_private=true&show_icons=true&theme=dracula)]
-
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/opfranca"/></a>
 </p>  
 
