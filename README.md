@@ -39,4 +39,4 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   </a>
 </p>  
-[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&count_private=true&show_icons=true&theme=outrun&hide=prs,contribs)](https://github.com/drowngut/github-readme-stats)
+[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&count_private=true&show_icons=true&theme=aura)](https://github.com/drowngut/github-readme-stats)
