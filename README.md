@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" />
-<p align="left"> 
+<p align="left">
   Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end e tenho intuito de estudar SQL.<br>
   <strong>[Building Windows applications]</strong>
 </p>
 
 <p align="">
-  💼 Especialidades: 
+  💼 Especialidades:
 <div style="display: inline-block; ">
   <a href="https://www.w3.org/html/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3.org/Style/CSS/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
@@ -15,9 +15,9 @@
   <a href="https://reactjs.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
   <a href="https://nodejs.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
   <a href="https://kotlinlang.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a>
-  <a href="https://www.mongodb.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a> 
-  <a href="https://code.visualstudio.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a> 
-  <a href="https://www.electronjs.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"></a> 
+  <a href="https://www.mongodb.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
+  <a href="https://code.visualstudio.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
+  <a href="https://www.electronjs.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"></a>
   <a href="https://docs.microsoft.com/dotnet/csharp/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
   <a href="https://firebase.google.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
   <a href="https://www.java.com"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
@@ -39,4 +39,4 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
   </a>
 </p>
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&hide=prs,contribs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&hide=prs,contribs&count_private=true&show_icons=true&theme=dracula)]
