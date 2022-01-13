@@ -31,6 +31,7 @@
       <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
   
   <a href="https://instagram.com/opfranca" alt="Instagram">
+<<<<<<< HEAD
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pedro-fran%C3%A7a-35696622a">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -40,3 +41,10 @@
   </a>
 </p>
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&hide=prs,contribs&count_private=true&show_icons=true&theme=dracula)]
+=======
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/opfranca"/></a>
+</p>  
+
+[![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=drowngut&count_private=true&show_icons=true&theme=outrun&hide=prs,contribs)](https://github.com/drowngut/github-readme-stats)
+<img src="/images/contrib.jpg">
+>>>>>>> parent of 3eceeeb (Update README.md)
