@@ -14,11 +14,8 @@
   <a href="https://git-scm.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
   <a href="https://reactjs.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
   <a href="https://nodejs.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
-  <a href="https://kotlinlang.org/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></a>
   <a href="https://www.mongodb.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></a>
   <a href="https://code.visualstudio.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
-  <a href="https://docs.microsoft.com/dotnet/csharp/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
-  <a href="https://firebase.google.com/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"></a>
   <a href="https://www.java.com"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
 </div>
 </p>
