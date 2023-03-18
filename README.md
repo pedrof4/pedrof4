@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="PC">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visitas%20no%20perfil&color=7f04d1&style=flat" alt="drowngut" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=drowngut&label=Visits&color=7f04d1&style=flat" alt="drowngut" /> </p>
 <p align="left">
-  Olá, meu nome é Pedro e atuo na área de desenvolvimento front-end e tenho intuito de estudar SQL.<br>
-  <strong>[Building Windows applications]</strong>
+  Hello! Willkommen<br>
 </p>
 
 <p align="">
-  💼 Especialidades:
+  💼 Skills:
 <div style="display: inline-block; ">
   <a href="https://www.w3.org/html/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3.org/Style/CSS/"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
